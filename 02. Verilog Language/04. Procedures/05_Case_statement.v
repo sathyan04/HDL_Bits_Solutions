@@ -1,4 +1,3 @@
-// synthesis verilog_input_version verilog_2001
 module top_module ( 
     input [2:0] sel, 
     input [3:0] data0,
@@ -9,7 +8,7 @@ module top_module (
     input [3:0] data5,
     output reg [3:0] out   );//
 
-    always@(*) begin  // This is a combinational circuit
+    always@(*) begin
         case(sel)
             3'b000: out=data0;
             3'b001: out=data1;
