@@ -6,5 +6,5 @@
 
 ## 02. Verilog Language
   
-  ### Basics
+  - ### Basics
     - [Simple Wire](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/02.%20Verilog%20Language/01.%20Basics/01_Simple_wire.v)
