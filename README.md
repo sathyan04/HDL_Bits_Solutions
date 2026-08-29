@@ -138,3 +138,12 @@
       - [Counter 1000](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/02.%20Counters/06_Counter_1000.v)
       - [4 Digit Decimal Counter](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/02.%20Counters/07_4_digit_decimal_counter.v)
       - [12 Hour Clock](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/02.%20Counters/08_12_hour_clock.v)
+
+    - ### Counters
+      - [4 Bit Shift Register](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/01_4_bit_shift_register.v)
+      - [Left/Right Rotator](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/02_Left_right_rotator.v)
+      - [Left/Right Arithmetic Shift By 1 Or 8](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/03_Left_right_arithmetic_shift_by_1_or_8.v)
+      - [5 Bit LFSR](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/04_5_bit_LFSR.v)
+      - [3 Bit LFSR](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/05_3_bit_LFSR.v)
+      - [32 Bit LFSR](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/06_32_bit_LFSR.v)
+      - [Shift Register](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/07_Shift_register.v) 
