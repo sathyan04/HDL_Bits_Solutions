@@ -1,4 +1,4 @@
-# HDL Bits Solutions <img align="right" width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/54022cb2-6b9d-4034-889c-87fe5ef93715" />
+# HDL Bits Solutions<img align="right" width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/54022cb2-6b9d-4034-889c-87fe5ef93715" />
 
 
 ## 01. Getting Started
