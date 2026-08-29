@@ -128,3 +128,11 @@
       - [Edge Capture Register](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/01.%20Latches%20and%20Flip-Flops/17_Edge_capture_register.v)
       - [Dual Edge Trigerred Flip-Flop](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/01.%20Latches%20and%20Flip-Flops/18_Dual_edge_trigerred_flip_flop.v)
       
+    - ### Counters
+      - [Four Bit Binary Counter](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/02.%20Counters/01_Four_bit_binary_counter.v)
+      - [Decade Counter](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/02.%20Counters/02_Decade_counter.v)
+      - [Decade Counter Again](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/02.%20Counters/03_Decode_counter_again.v)
+      - [Slow Decade Counter](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/02.%20Counters/04_Slow_decade_counter.v)
+      - [Counter 1 To 12](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/02.%20Counters/05_Counter_1_to_12.v)
+      - [Counter 1000](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/02.%20Counters/06_Counter_1000.v)
+      - [4 Digit Decimal Counter](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/02.%20Counters/07_4_digit_decimal_counter.v)
