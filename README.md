@@ -1,4 +1,4 @@
-# HDL Bits Solutions
+# HDL Bits Solutions https://hdlbits.01xz.net/images/logo270.png
 
 ## 01. Getting Started
   - [Getting Started](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/01.%20Getting%20Started/01_Getting_started.v)
