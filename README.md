@@ -1,6 +1,5 @@
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/54022cb2-6b9d-4034-889c-87fe5ef93715" />
+# HDL Bits Solutions <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/54022cb2-6b9d-4034-889c-87fe5ef93715" />
 
-# HDL Bits Solutions 
 
 ## 01. Getting Started
   - [Getting Started](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/01.%20Getting%20Started/01_Getting_started.v)
