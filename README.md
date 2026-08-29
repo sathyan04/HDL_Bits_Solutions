@@ -137,3 +137,4 @@
       - [Counter 1 To 12](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/02.%20Counters/05_Counter_1_to_12.v)
       - [Counter 1000](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/02.%20Counters/06_Counter_1000.v)
       - [4 Digit Decimal Counter](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/02.%20Counters/07_4_digit_decimal_counter.v)
+      - [12 Hour Clock](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/02.%20Counters/08_12_hour_clock.v)
