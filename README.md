@@ -152,3 +152,4 @@
 
     - ### Shift Registers
       - [Rule 90](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/04.%20More%20Circuits/01_Rule_90.v)
+      - [Rule 110](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/04.%20More%20Circuits/02_Rule_110.v)
