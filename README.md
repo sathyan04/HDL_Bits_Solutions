@@ -148,3 +148,4 @@
       - [32 Bit LFSR](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/06_32_bit_LFSR.v)
       - [Shift Register](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/07_Shift_register.v)
       - [Shift Register](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/08_Shift_register.v)
+      - [3-Input LUT](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/09_3_input_lut.v)
