@@ -146,4 +146,5 @@
       - [5 Bit LFSR](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/04_5_bit_LFSR.v)
       - [3 Bit LFSR](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/05_3_bit_LFSR.v)
       - [32 Bit LFSR](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/06_32_bit_LFSR.v)
-      - [Shift Register](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/07_Shift_register.v) 
+      - [Shift Register](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/07_Shift_register.v)
+      - [Shift Register](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/08_Shift_register.v)
