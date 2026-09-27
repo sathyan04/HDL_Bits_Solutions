@@ -150,6 +150,16 @@
       - [Shift Register](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/08_Shift_register.v)
       - [3-Input LUT](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/03.%20Shift%20Registers/09_3_input_lut.v)
 
-    - ### Shift Registers
+    - ### More Circuits
       - [Rule 90](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/04.%20More%20Circuits/01_Rule_90.v)
       - [Rule 110](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/04.%20More%20Circuits/02_Rule_110.v)
+
+    - ### Finite State Machines
+      - [Simple FSM 1 (Asynchronous Reset)](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/05.%20Finite%20State%20Machines/01_Simple_FSM_1_(asynchronous_reset).v)
+      - [Simple FSM 1 (Synchronous Reset)](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/05.%20Finite%20State%20Machines/02_Simple_FSM_1_(synchronous_reset).v)
+      - [Simple FSM 2 (Asynchronous Reset)](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/05.%20Finite%20State%20Machines/03_Simple_FSM_2_(asynchronous_reset).v)
+      - [Simple FSM 2 (Synchronous Reset)](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/05.%20Finite%20State%20Machines/04_Simple_FSM_2_(synchronous_reset).v)
+      - [Simple State Transitions 3](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/05.%20Finite%20State%20Machines/05_Simple_state_transitions_3.v)
+      - [Simple One Hot Transitions 3](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/05.%20Finite%20State%20Machines/06_Simple_one_hot_state_transitions_3.v)
+      - [Simple FSM 3 (Asynchronous Reset)](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/05.%20Finite%20State%20Machines/07_Simple_FSM_3_(asynchronous_reset).v)
+      - [Simple FSM 3 (Synchronous Reset)](https://github.com/sathyan04/HDL_Bits_Solutions/blob/main/03.%20Circuits/02.%20Sequential%20Logic/05.%20Finite%20State%20Machines/08_Simple_FSM_3_(synchronous_reset).v) 
